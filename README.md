@@ -1,7 +1,7 @@
 # Event Sourcing 
 
 This project is just to sharpen my skill with Python development. EventSourcing is my fav architectural approach. Hence you see it here.
-It's just the event sourcing part done on a cold winter evening. Someday will try to add the projection part.
+It's just the event sourcing part done in a cold winter evening. Someday will try to add the projection part.
 
 ## Requirements
 
